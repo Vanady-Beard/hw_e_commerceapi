@@ -1,0 +1,1 @@
+The ecom.py is the route file. The customer.py is the class schema. The connection.py is where all the connection is and just import it to the ecom.py and the customer.py. 
